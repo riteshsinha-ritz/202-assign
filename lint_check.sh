@@ -26,4 +26,4 @@ do
 done
 echo $'All XML files verified..\n'
 
-echo "All input files lint check passed (SUCCESS)"
+echo "All input/output files lint check passed (SUCCESS)"
