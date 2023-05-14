@@ -1,0 +1,14 @@
+[
+	{
+		"cardNumber": "4123456789123999",
+		"cardType": "Visa"
+	},
+	{
+		"cardNumber": "377856341908126",
+		"cardType": "AmericanExpress"
+	},
+	{
+		"cardNumber": "",
+		"cardType": "Invalid: empty/null card number"
+	}
+]

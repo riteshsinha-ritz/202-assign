@@ -1,0 +1,15 @@
+[
+	{
+		"cardNumber": "4123456789123",
+		"cardType": "Visa"
+	},
+	{
+		"cardNumber": "6011111100007756",
+		"cardType": "Discover"
+	},
+	{
+		"cardNumber": "3601112345678789",
+		"cardType": "Invalid: Not a possible card number"
+	}
+]
+

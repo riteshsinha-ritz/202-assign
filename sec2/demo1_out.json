@@ -1,0 +1,15 @@
+[
+	{
+		"cardNumber": "3601112345678789",
+		"cardType": "Invalid: Not a possible card number"
+	},
+	{
+		"cardNumber": "5167894523129089",
+		"cardType": "MasterCard"	
+	},
+	{
+		"cardNumber": "6011*890HJrt6789",
+		"cardType": "Invalid: non numeric characters"
+	}
+]
+

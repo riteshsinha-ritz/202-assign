@@ -1,0 +1,15 @@
+[
+	{
+		"cardNumber": "5567894523129089",
+		"cardType": "MasterCard"
+	},
+	{
+		"cardNumber": "59012345678901234567890",
+		"cardType": "Invalid: more than 19 digits"
+	},
+	{
+		"cardNumber": "347856341908126",
+		"cardType": "AmericanExpress"
+	}
+]
+
